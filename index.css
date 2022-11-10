@@ -40,7 +40,7 @@ body {
 }
 .container {
     max-width:1400px;
-    padding:11em;
+    padding:9em;
     margin:0 auto
 }
 .hero{
@@ -54,7 +54,7 @@ body {
 }
 .hero-title h1 {
     font-size:50px;
-    font-weight:700;
+    font-weight:800;
     color:var(--Very-Dark-Magenta)
 }
 .hero-title p {
