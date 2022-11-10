@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/Abdullahi-abdiaziz/social-proof-section)
+- Live Site URL: [View here](https://social-proof-section-c2.netlify.app/)
 
 ## My process
 
@@ -49,6 +49,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@abdallah](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@abdallah](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@abdallah](https://www.frontendmentor.io/profile/Abdullahi-abdiaziz)
+- Twitter - [@abdallah](https://www.twitter.com/apdllah_abdaziz)
 
