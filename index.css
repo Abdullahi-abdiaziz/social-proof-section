@@ -40,7 +40,7 @@ body {
 }
 .container {
     max-width:1400px;
-    padding:150px 150px;
+    padding:11em;
     margin:0 auto
 }
 .hero{
@@ -50,10 +50,10 @@ body {
     margin-bottom:75px
 }
 .hero-title {
-    width:30%
+    width:35%
 }
-.hero-title h2 {
-    font-size:40px;
+.hero-title h1 {
+    font-size:50px;
     font-weight:700;
     color:var(--Very-Dark-Magenta)
 }
@@ -200,7 +200,7 @@ body {
         width:70%;
         margin:0
     }
-    .hero-title h2,
+    .hero-title h1,
     .hero-title p {
         text-align:center
     }
